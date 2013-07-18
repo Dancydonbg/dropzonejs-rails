@@ -7,7 +7,6 @@ Integrate [Matias Meno's Dropzone](http://www.dropzonejs.com/) awesome file uplo
 The latest version of this gem bundles **Dropzone v3.6.1**.
 
 ## Installation and usage
-### dancy
 First add `dropzonejs-rails` to your Gemfile and, as you already know, `bundle` it and then restart your Rails app:
 
 ```ruby
